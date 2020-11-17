@@ -58,7 +58,10 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 [<img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="20" height="20" />](https://github.com/GBernard314/cronogram) ```cronogram``` the *Telegramic* **cron job notifier**
 
-[<img alt="Telegram" src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20" />](https://github.com/GBernard314/decibel_dB) ```decibel-dB``` the lightweight **DataBase Management System**
+[<img alt="DBMS" src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20" />](https://github.com/GBernard314/decibel_dB) ```decibel-dB``` the lightweight **DataBase Management System**
+
+[<img alt="BBC" src="https://static.thenounproject.com/png/108491-200.png" width="20" height="20" />](https://github.com/GBernard314/Big_beautiful_chess) ```big_beautiful_chess``` the online **Multiplayer Chess Game**
+
 
 
 ---
