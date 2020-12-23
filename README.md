@@ -62,6 +62,8 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 [<img alt="BBC" src="https://static.thenounproject.com/png/108491-200.png" width="20" height="20" />](https://github.com/GBernard314/Big_beautiful_chess) ```big_beautiful_chess``` the online **Multiplayer Chess Game**
 
+[<img alt="Covipi" src="https://www.flaticon.com/svg/static/icons/svg/3022/3022142.svg" width="20" height="20" />](https://github.com/PDesoomer/Covipi) ```Covipi``` the dashboard of worldwide cases of **codiv-19**
+
 
 
 ---
