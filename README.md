@@ -39,6 +39,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white"/> 
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/> 
   <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> 
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/> 
 
   
 </p>
@@ -63,6 +64,8 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 [<img alt="BBC" src="https://static.thenounproject.com/png/108491-200.png" width="20" height="20" />](https://github.com/GBernard314/Big_beautiful_chess) ```big_beautiful_chess``` the online **Multiplayer Chess Game**
 
 [<img alt="Covipi" src="https://www.flaticon.com/svg/static/icons/svg/3022/3022142.svg" width="20" height="20" />](https://github.com/PDesoomer/Covipi) ```Covipi``` the dashboard of worldwide cases of **codiv-19**
+
+[<img alt="Burg'ISEN" src="https://www.flaticon.com/svg/vstatic/svg/518/518705.svg?token=exp=1612193753~hmac=eb349790bf137b27d4b8ba920e08e205" width="20" height="20" />](https://github.com/GBernard314/burgisen2.0) ```Burg'ISEN``` a school subject about making an **restaurant android app**
 
 
 
