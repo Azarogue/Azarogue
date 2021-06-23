@@ -54,7 +54,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 ![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C) 
 </p>
 
-[<img alt="theCAP" src="https://github.com/TibRib/the-cap/blob/main/img/THE_CAP_icon_round_flat.png" width="20" height="20" />](https://github.com/TibRib/the-cap) ```the-CAP``` the **Comment-Analyze-Predict** sport Bot
+[<img alt="theCAP" src="https://github.com/The-Cap/the-cap/blob/machineLearning/img/THE_CAP_icon_round_flat.png" width="20" height="20" />](https://github.com/The-Cap/the-cap) ```the-CAP``` the **Comment-Analyze-Predict** sport Bot
 
 
 [<img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="20" height="20" />](https://github.com/GBernard314/cronogram) ```cronogram``` the *Telegramic* **cron job notifier**
@@ -65,7 +65,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 [<img alt="Covipi" src="https://www.flaticon.com/svg/static/icons/svg/3022/3022142.svg" width="20" height="20" />](https://github.com/PDesoomer/Covipi) ```Covipi``` the dashboard of worldwide cases of **codiv-19**
 
-[<img alt="Burg'ISEN" src="https://www.flaticon.com/svg/vstatic/svg/518/518705.svg?token=exp=1612193753~hmac=eb349790bf137b27d4b8ba920e08e205" width="20" height="20" />](https://github.com/GBernard314/burgisen2.0) ```Burg'ISEN``` a school subject about making an **restaurant android app**
+[<img alt="Burg'ISEN" src="https://image.flaticon.com/icons/png/512/3075/3075977.png" width="20" height="20" />](https://github.com/GBernard314/burgisen2.0) ```Burg'ISEN``` a school subject about making an **restaurant android app**
 
 
 
